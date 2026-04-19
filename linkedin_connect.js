@@ -15,8 +15,8 @@ const fs = require('fs');
 // ─── CONFIG ──────────────────────────────────────────────────────────────────
 
 const CONFIG = {
-  email:    'ahmedmuqeetabdul@gmail.com',
-  password: 'ineedajab',
+  email:    'email',
+  password: 'password',
 
   targetCount: 20,
 
